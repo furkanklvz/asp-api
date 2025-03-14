@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\webapplication1\\wwwroot\\images\\14pro.jpg",
+      "PackagePath": "staticwebassets\\images\\14pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\webapplication1\\wwwroot\\images\\14t.png",
+      "PackagePath": "staticwebassets\\images\\14t.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\webapplication1\\wwwroot\\images\\s23.jpg",
+      "PackagePath": "staticwebassets\\images\\s23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\webapplication1\\wwwroot\\images\\s24fe.jpg",
+      "PackagePath": "staticwebassets\\images\\s24fe.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
