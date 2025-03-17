@@ -2,7 +2,7 @@ import axios, { AxiosError, AxiosResponse } from "axios";
 import { toast } from "react-toastify";
 import { router } from "../router/Routes";
 
-axios.defaults.baseURL = "http://localhost:5088/api/";
+axios.defaults.baseURL = "http://localhost:5077/api/";
 axios.defaults.withCredentials = true;
 
 axios.interceptors.response.use(response => {
@@ -60,7 +60,7 @@ const Catalog = {
 }
 
 const Cart = {
-    getCartItems: () => queries.get("cart"),
+    get: () => queries.get("cart"),
     addItem: (productId: number, quantity = 1) => queries.post(`cart?productId=${productId}&quantity=${quantity}`, {}),
     deleteItem: (productId: number, quantity = 1) => queries.delete(`cart?productId=${productId}&quantity=${quantity}`)
 }

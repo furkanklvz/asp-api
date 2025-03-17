@@ -6,6 +6,7 @@ namespace Server.Data;
 public class DataContext(DbContextOptions options) : DbContext(options)
 {
     public DbSet<Product> Products { get; set; } = null!;
+    public DbSet<Cart> Carts { get; set; } = null!;
 
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)

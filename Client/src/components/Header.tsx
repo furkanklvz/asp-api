@@ -1,6 +1,7 @@
 import { Person2Rounded, ShoppingCart } from "@mui/icons-material";
 import { AppBar, Badge, Box, Button, IconButton, Stack, Toolbar, Typography } from "@mui/material";
-import { NavLink } from "react-router";
+import { Link, NavLink } from "react-router";
+import { router } from "../router/Routes";
 
 const links = [
   { title: "Home", to: "" },
@@ -33,7 +34,7 @@ export default function Header() {
           </Stack>
         </Box>
         <Box sx={{display:"flex", alignItems:"center"}}>
-          <IconButton size="large" edge="start" color="inherit">
+          <IconButton component={Link} to="/cart" size="large" edge="start" color="inherit">
             <Badge badgeContent="3" color="secondary">
               <ShoppingCart/>
             </Badge>

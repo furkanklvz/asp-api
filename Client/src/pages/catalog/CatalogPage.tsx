@@ -12,6 +12,7 @@ export default function CatalogPage() {
     useEffect(() => {
         requests.Catalog.list()
             .then(data => setProducts(data))
+            .catch(error => console.log(error))
             .finally(()=> setLoading(false));
 
         console.log("fethced data")

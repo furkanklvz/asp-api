@@ -24,7 +24,7 @@ export default function Product(props: any) {
 
   return (
     <Card variant="outlined">
-      <CardMedia sx={{ height: 160, backgroundSize: "contain" }} image={`http://localhost:5088/images/${props.product.imageUrl}`} />
+      <CardMedia sx={{ height: 160, backgroundSize: "contain" }} image={`http://localhost:5077/images/${props.product.imageUrl}`} />
       <CardContent>
         <Typography gutterBottom variant="h6" component="h2" color="text.secondary">{props.product.name}</Typography>
         <Typography variant="body2" color="secondary">{(props.product.price / 100).toFixed(2)} ₺</Typography>
@@ -33,7 +33,7 @@ export default function Product(props: any) {
         <IconButton color="primary" onClick={AddToCart} loading={loading}>
           <AddShoppingCart />
         </IconButton>
-        <Button component={Link} to={`/catalog/${props.product.id}`} variant="contained" startIcon={<OpenInNew />} color="success">View
+        <Button component={Link} to={`/catalog/${props.product.productId}`} variant="contained" startIcon={<OpenInNew />} color="success">View
         </Button>
       </CardActions>
     </Card>
