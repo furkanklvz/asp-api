@@ -13,7 +13,7 @@ export default function Product(props: any) {
 
     setLoading(true);
 
-    requests.Cart.addItem(props.product.id)
+    requests.Cart.addItem(props.product.productId)
       .then(cart => {
         console.log(cart)
         toast.success("Item added to cart.")

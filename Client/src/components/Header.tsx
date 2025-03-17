@@ -1,7 +1,6 @@
 import { Person2Rounded, ShoppingCart } from "@mui/icons-material";
 import { AppBar, Badge, Box, Button, IconButton, Stack, Toolbar, Typography } from "@mui/material";
 import { Link, NavLink } from "react-router";
-import { router } from "../router/Routes";
 
 const links = [
   { title: "Home", to: "" },

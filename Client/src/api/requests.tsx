@@ -60,9 +60,9 @@ const Catalog = {
 }
 
 const Cart = {
-    get: () => queries.get("cart"),
-    addItem: (productId: number, quantity = 1) => queries.post(`cart?productId=${productId}&quantity=${quantity}`, {}),
-    deleteItem: (productId: number, quantity = 1) => queries.delete(`cart?productId=${productId}&quantity=${quantity}`)
+    get: () => queries.get("cart?customerId=1"),
+    addItem: (productId: number, quantity = 1) => queries.post(`cart?customerId=1&productId=${productId}&quantity=${quantity}`, {}),
+    deleteItem: (productId: number, quantity = 1) => queries.delete(`cart?customerId=1&productId=${productId}&quantity=${quantity}`)
 }
 
 const requests = {
