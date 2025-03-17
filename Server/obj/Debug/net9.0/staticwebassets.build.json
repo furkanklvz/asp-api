@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "Hash": "h7LEuuxhTqZgbywhdvwQUS+ZkQ04GiVEHng0lZ3Avq4=",
+  "Source": "Server",
+  "BasePath": "_content/Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Server\\wwwroot",
+      "Source": "Server",
+      "ContentRoot": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\15pro.jpg",
+      "SourceId": "Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "RelativePath": "images/15pro#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ack72h1ox2",
+      "Integrity": "upirjo9s3XFkoxQi96RNv97OMVx4ncHm5Nb52PjgLPc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\15pro.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\budsfe.jpg",
+      "SourceId": "Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "RelativePath": "images/budsfe#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ffw37ln6p6",
+      "Integrity": "65HmofkVjG0D7FLUucXvfvBYGk1kp+gGw7FB84NBDmw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\budsfe.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\gprox.jpg",
+      "SourceId": "Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "RelativePath": "images/gprox#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dlmtest411",
+      "Integrity": "oaUYYZm6F5xHVX/eY/QxN1O49+PyFsOri+uzl9Ug3XM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\gprox.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\lego.jpg",
+      "SourceId": "Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "RelativePath": "images/lego#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2h1qdnllyb",
+      "Integrity": "Cv1Vs1GgJ96nmwyqTiw92kGt5okuijV+PW8myTx8ZbU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\lego.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\s23.jpg",
+      "SourceId": "Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "RelativePath": "images/s23#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r7yk5o4e1j",
+      "Integrity": "ydBA9/UOxGHoURK+Zfw8BlBIS7YiRu03Ch5c8H0p8aM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\s23.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/15pro.ack72h1ox2.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\15pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"upirjo9s3XFkoxQi96RNv97OMVx4ncHm5Nb52PjgLPc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 15:27:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ack72h1ox2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/15pro.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-upirjo9s3XFkoxQi96RNv97OMVx4ncHm5Nb52PjgLPc="
+        }
+      ]
+    },
+    {
+      "Route": "images/15pro.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\15pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"upirjo9s3XFkoxQi96RNv97OMVx4ncHm5Nb52PjgLPc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 15:27:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-upirjo9s3XFkoxQi96RNv97OMVx4ncHm5Nb52PjgLPc="
+        }
+      ]
+    },
+    {
+      "Route": "images/budsfe.ffw37ln6p6.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\budsfe.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"65HmofkVjG0D7FLUucXvfvBYGk1kp+gGw7FB84NBDmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 15:30:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ffw37ln6p6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/budsfe.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-65HmofkVjG0D7FLUucXvfvBYGk1kp+gGw7FB84NBDmw="
+        }
+      ]
+    },
+    {
+      "Route": "images/budsfe.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\budsfe.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"65HmofkVjG0D7FLUucXvfvBYGk1kp+gGw7FB84NBDmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 15:30:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-65HmofkVjG0D7FLUucXvfvBYGk1kp+gGw7FB84NBDmw="
+        }
+      ]
+    },
+    {
+      "Route": "images/gprox.dlmtest411.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\gprox.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oaUYYZm6F5xHVX/eY/QxN1O49+PyFsOri+uzl9Ug3XM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 15:30:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dlmtest411"
+        },
+        {
+          "Name": "label",
+          "Value": "images/gprox.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oaUYYZm6F5xHVX/eY/QxN1O49+PyFsOri+uzl9Ug3XM="
+        }
+      ]
+    },
+    {
+      "Route": "images/gprox.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\gprox.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oaUYYZm6F5xHVX/eY/QxN1O49+PyFsOri+uzl9Ug3XM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 15:30:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oaUYYZm6F5xHVX/eY/QxN1O49+PyFsOri+uzl9Ug3XM="
+        }
+      ]
+    },
+    {
+      "Route": "images/lego.2h1qdnllyb.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\lego.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cv1Vs1GgJ96nmwyqTiw92kGt5okuijV+PW8myTx8ZbU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 15:28:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2h1qdnllyb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/lego.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cv1Vs1GgJ96nmwyqTiw92kGt5okuijV+PW8myTx8ZbU="
+        }
+      ]
+    },
+    {
+      "Route": "images/lego.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\lego.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cv1Vs1GgJ96nmwyqTiw92kGt5okuijV+PW8myTx8ZbU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 15:28:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cv1Vs1GgJ96nmwyqTiw92kGt5okuijV+PW8myTx8ZbU="
+        }
+      ]
+    },
+    {
+      "Route": "images/s23.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\s23.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ydBA9/UOxGHoURK+Zfw8BlBIS7YiRu03Ch5c8H0p8aM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 15:26:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ydBA9/UOxGHoURK+Zfw8BlBIS7YiRu03Ch5c8H0p8aM="
+        }
+      ]
+    },
+    {
+      "Route": "images/s23.r7yk5o4e1j.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\s23.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ydBA9/UOxGHoURK+Zfw8BlBIS7YiRu03Ch5c8H0p8aM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 15:26:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r7yk5o4e1j"
+        },
+        {
+          "Name": "label",
+          "Value": "images/s23.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ydBA9/UOxGHoURK+Zfw8BlBIS7YiRu03Ch5c8H0p8aM="
+        }
+      ]
+    }
+  ]
+}
