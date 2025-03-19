@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "h7LEuuxhTqZgbywhdvwQUS+ZkQ04GiVEHng0lZ3Avq4=",
+  "Hash": "RYQlySE57l63PX2Y2P3dXgNvwHGv7yqJlFftRPgpOms=",
   "Source": "Server",
   "BasePath": "_content/Server",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Server\\wwwroot",
       "Source": "Server",
-      "ContentRoot": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\15pro.jpg",
+      "Identity": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\images\\15pro.jpg",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "images/15pro#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\images\\15pro.jpg"
     },
     {
-      "Identity": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\budsfe.jpg",
+      "Identity": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\images\\budsfe.jpg",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "images/budsfe#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\images\\budsfe.jpg"
     },
     {
-      "Identity": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\gprox.jpg",
+      "Identity": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\images\\gprox.jpg",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "images/gprox#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gprox.jpg"
     },
     {
-      "Identity": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\lego.jpg",
+      "Identity": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\images\\lego.jpg",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "images/lego#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lego.jpg"
     },
     {
-      "Identity": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\s23.jpg",
+      "Identity": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\images\\s23.jpg",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "images/s23#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -125,7 +125,7 @@
   "Endpoints": [
     {
       "Route": "images/15pro.ack72h1ox2.jpg",
-      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\15pro.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\images\\15pro.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -170,7 +170,7 @@
     },
     {
       "Route": "images/15pro.jpg",
-      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\15pro.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\images\\15pro.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -207,7 +207,7 @@
     },
     {
       "Route": "images/budsfe.ffw37ln6p6.jpg",
-      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\budsfe.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\images\\budsfe.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -252,7 +252,7 @@
     },
     {
       "Route": "images/budsfe.jpg",
-      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\budsfe.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\images\\budsfe.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -289,7 +289,7 @@
     },
     {
       "Route": "images/gprox.dlmtest411.jpg",
-      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\gprox.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\images\\gprox.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -334,7 +334,7 @@
     },
     {
       "Route": "images/gprox.jpg",
-      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\gprox.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\images\\gprox.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -371,7 +371,7 @@
     },
     {
       "Route": "images/lego.2h1qdnllyb.jpg",
-      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\lego.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\images\\lego.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -416,7 +416,7 @@
     },
     {
       "Route": "images/lego.jpg",
-      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\lego.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\images\\lego.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -453,7 +453,7 @@
     },
     {
       "Route": "images/s23.jpg",
-      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\s23.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\images\\s23.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -490,7 +490,7 @@
     },
     {
       "Route": "images/s23.r7yk5o4e1j.jpg",
-      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\asp api\\server\\wwwroot\\images\\s23.jpg",
+      "AssetFile": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\wwwroot\\images\\s23.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
