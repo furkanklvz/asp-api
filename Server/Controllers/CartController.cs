@@ -8,6 +8,7 @@ using Server.Entity;
 
 namespace Server.Controller;
 
+[Authorize]
 [Route("api/[controller]")]
 [ApiController]
 public class CartController(DataContext dataContext) : ControllerBase
@@ -24,7 +25,6 @@ public class CartController(DataContext dataContext) : ControllerBase
         return Ok(CartToDTO(cart));
     }
 
-    [Authorize]
     [HttpPost]
     public async Task<ActionResult<CartDTO>> AddCartItem(int productId, int quantity)
     {
@@ -38,7 +38,6 @@ public class CartController(DataContext dataContext) : ControllerBase
         return BadRequest("The item could not be added.");
     }
     
-    [Authorize]
     [HttpDelete]
     public async Task<IActionResult> DeleteCartItem(int productId, int quantity)
     {
@@ -74,7 +73,7 @@ public class CartController(DataContext dataContext) : ControllerBase
         return cart;
     }
 
-    private CartDTO CartToDTO(Cart cart)
+    private static CartDTO CartToDTO(Cart cart)
     {
         return new CartDTO
         {
