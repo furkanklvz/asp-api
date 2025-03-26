@@ -3,8 +3,9 @@ namespace Server.Entity;
 public class Order
 {
     public int OrderId { get; set; }
-    public DateTime OrderDate { get; set; } = DateTime.Now;
-    public string?  FullName { get; set; }
+    public DateTime OrderDate { get; set; } = DateTime.SpecifyKind(DateTime.Now, DateTimeKind.Unspecified);
+    public string?  Name { get; set; }
+    public string?  Surname { get; set; }
     public string? Phone { get; set; }
     public string? City { get; set; }
     public string? AddresLine { get; set; }
@@ -13,6 +14,8 @@ public class Order
     public List<OrderItem> OrderItems { get; set; } = new();
     public decimal SubTotal { get; set; }
     public decimal DeliveryFee { get; set; }
+    public string? ConversationId { get; set; }
+    public string? BasketId { get; set; }
     public decimal GetTotal(){
         return SubTotal + DeliveryFee;
     }

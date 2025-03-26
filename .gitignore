@@ -1,2 +1,4 @@
 /asp api.sln
 /package-lock.json
+Server/appsettings.Development.json
+Server/bin/Debug/net9.0/appsettings.Development.json

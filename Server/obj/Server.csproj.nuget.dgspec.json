@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\Server.csproj": {}
+    "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\Server.csproj": {
+    "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\Server.csproj",
+        "projectPath": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\Furkan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\server\\obj\\",
+        "outputPath": "C:\\Users\\Furkan\\OneDrive\\Desktop\\Desktop\\asp api\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Furkan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -44,6 +44,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Iyzipay": {
+              "target": "Package",
+              "version": "[2.1.67, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[9.0.3, )"

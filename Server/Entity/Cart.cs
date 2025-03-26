@@ -1,3 +1,4 @@
+
 namespace Server.Entity;
 
 public class Cart
@@ -32,6 +33,12 @@ public class Cart
         }
     }
 
+    public double? CalculateTotalCost()
+    {
+        var sumDecimal = CartItems.Sum(item => item.Product?.Price * item.Quantity);
+        if (sumDecimal == null) return null;
+        return (double)sumDecimal;
+    }
 }
 
 public class CartItem

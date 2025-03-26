@@ -4,7 +4,8 @@ public class OrderDTO
 {
     public int OrderId { get; set; }
     public DateTime OrderDate { get; set; } = DateTime.Now;
-    public string?  FullName { get; set; }
+    public string?  Name { get; set; }
+    public string?  Surname { get; set; }
     public string? Phone { get; set; }
     public string? City { get; set; }
     public string? AddresLine { get; set; }

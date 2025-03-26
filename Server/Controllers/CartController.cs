@@ -41,6 +41,7 @@ public class CartController(DataContext dataContext) : ControllerBase
     [HttpDelete]
     public async Task<IActionResult> DeleteCartItem(int productId, int quantity)
     {
+
         var cart = await GetCartOrCreate();
         if (cart == null) return Unauthorized();
         cart.DeleteCartItem(productId, quantity);

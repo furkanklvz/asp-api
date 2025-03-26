@@ -504,3 +504,5 @@ C:\Users\Furkan\OneDrive\Desktop\Desktop\asp api\server\obj\Debug\net9.0\Server.
 C:\Users\Furkan\OneDrive\Desktop\Desktop\asp api\server\obj\Debug\net9.0\ref\Server.dll
 C:\Users\Furkan\OneDrive\Desktop\Desktop\asp api\server\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Furkan\OneDrive\Desktop\Desktop\asp api\server\bin\Debug\net9.0\Scalar.AspNetCore.dll
+C:\Users\Furkan\OneDrive\Desktop\Desktop\asp api\server\bin\Debug\net9.0\Iyzipay.dll
+C:\Users\Furkan\OneDrive\Desktop\Desktop\asp api\server\bin\Debug\net9.0\Newtonsoft.Json.dll
